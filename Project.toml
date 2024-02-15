@@ -1,0 +1,23 @@
+name = "ABINIT_jll"
+uuid = "498d8bb8-48f6-584d-8f05-fccc9a211def"
+version = "9.10.3+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+NetCDFF_jll = "78e728a9-57fe-5d11-897c-5014b89e5f84"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+OpenBLAS32_jll = "656ef2d0-ae68-5445-9ca0-591084a874a2"
+FFTW_jll = "f5851436-0d7a-5f13-b9de-f02708fd171a"
+HDF5_jll = "0234f1f7-429e-5d53-9886-15a909be8d59"
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+Libxc_jll = "a56a6d9d-ad03-58af-ab61-878bf78270d6"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+CompilerSupportLibraries_jll = "e66e0078-7015-5450-92f7-15fbd957f2ae"
+LAPACK_jll = "51474c39-65e3-53ba-86ba-03b1b862ec14"
+
+[compat]
+JLLWrappers = "1.2.0"
+julia = "1.0"
+Pkg = "1"
+Libdl = "1"
+Artifacts = "1"
