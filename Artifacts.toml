@@ -1,13 +1,13 @@
 [[ABINIT]]
 arch = "x86_64"
-git-tree-sha1 = "d2d521edef7f820b271685beb2cebf687a982723"
+git-tree-sha1 = "77f5ccfadf0bc32a79b401bd8cf99a21b534849c"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[ABINIT.download]]
-    sha256 = "22e42e6abf16e262593b93bbb39ccc56903a42bdef53d56f0097d13030582536"
-    url = "https://github.com/epolack/ABINIT_jll.jl/releases/download/ABINIT-v9.10.3+4/ABINIT.v9.10.3.x86_64-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "955fa79b43f4f5fdedb7e94abab17bd332935df003ba4adc86e7df3e13f2f9c5"
+    url = "https://github.com/epolack/ABINIT_jll.jl/releases/download/ABINIT-v9.10.3+5/ABINIT.v9.10.3.x86_64-linux-gnu-libgfortran4.tar.gz"
 [[ABINIT]]
 arch = "x86_64"
 git-tree-sha1 = "98d4433ea9c78660232f618382c083d68932ace3"
@@ -17,4 +17,4 @@ os = "linux"
 
     [[ABINIT.download]]
     sha256 = "ab8ec008f41626d02e0c487cf7af74928c368499b8f4daab306e90b83112b840"
-    url = "https://github.com/epolack/ABINIT_jll.jl/releases/download/ABINIT-v9.10.3+4/ABINIT.v9.10.3.x86_64-linux-gnu-libgfortran5.tar.gz"
+    url = "https://github.com/epolack/ABINIT_jll.jl/releases/download/ABINIT-v9.10.3+5/ABINIT.v9.10.3.x86_64-linux-gnu-libgfortran5.tar.gz"
