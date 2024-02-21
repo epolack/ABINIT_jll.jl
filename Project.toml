@@ -1,6 +1,6 @@
 name = "ABINIT_jll"
 uuid = "498d8bb8-48f6-584d-8f05-fccc9a211def"
-version = "9.10.3+3"
+version = "9.10.3+4"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
